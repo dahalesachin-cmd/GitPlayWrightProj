@@ -1,0 +1,22 @@
+{
+  "name": "gitplaywrightproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dahalesachin-cmd/GitPlayWrightProj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dahalesachin-cmd/GitPlayWrightProj/issues"
+  },
+  "homepage": "https://github.com/dahalesachin-cmd/GitPlayWrightProj#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.0"
+  }
+}
